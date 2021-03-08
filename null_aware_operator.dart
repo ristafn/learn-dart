@@ -19,7 +19,7 @@ main() {
 
   print(number);
 
-  int number2;
+  int? number2;
 
   print(number2 ??= 100);
 }
